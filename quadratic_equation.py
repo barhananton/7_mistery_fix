@@ -10,5 +10,4 @@ def get_roots(a, b, c):
     elif discriminant > 0:
         return root1, root2
     else:
-            return None, None
-
+        return None, None
